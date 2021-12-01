@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="Rectangle_51" x="0" y="0" width="64" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#888585" flood-opacity="0.659"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_80" data-name="Group 80" transform="translate(-946 -3218)">
+    <g id="Group_37" data-name="Group 37" transform="translate(44 -53)">
+      <g transform="matrix(1, 0, 0, 1, 902, 3271)" filter="url(#Rectangle_51)">
+        <rect id="Rectangle_51-2" data-name="Rectangle 51" width="40" height="40" rx="12" transform="translate(11 12)" fill="#323232"/>
+      </g>
+      <path id="Icon_awesome-youtube" data-name="Icon awesome-youtube" d="M26.829,7.4A3.308,3.308,0,0,0,24.5,5.054C22.448,4.5,14.214,4.5,14.214,4.5s-8.233,0-10.286.554A3.308,3.308,0,0,0,1.6,7.4a34.7,34.7,0,0,0-.55,6.378,34.7,34.7,0,0,0,.55,6.378,3.259,3.259,0,0,0,2.328,2.305c2.053.554,10.286.554,10.286.554s8.233,0,10.286-.554a3.259,3.259,0,0,0,2.328-2.305,34.7,34.7,0,0,0,.55-6.378,34.7,34.7,0,0,0-.55-6.378ZM11.522,17.69V9.86L18.4,13.775,11.522,17.69Z" transform="translate(918.786 3289.244)" fill="#f30000"/>
+    </g>
+  </g>
+</svg>

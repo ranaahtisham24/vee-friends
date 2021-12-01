@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12.579" height="12.273" viewBox="0 0 12.579 12.273">
+  <defs>
+    <clipPath id="clip-path">
+      <rect y="2" width="7" height="7" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_181" data-name="Group 181" transform="translate(767 -566.371)">
+    <g id="Group_180" data-name="Group 180" transform="translate(-1197.185 -1035.622)">
+      <g id="Group_5" data-name="Group 5" transform="translate(-220 7)">
+        <g id="Scroll_Group_4" data-name="Scroll Group 4" transform="translate(656.977 1596.078) rotate(49)" clip-path="url(#clip-path)" style="isolation: isolate">
+          <g id="Rectangle_38" data-name="Rectangle 38" transform="translate(0 -2)" fill="none" stroke="#fff" stroke-width="1">
+            <rect width="7" height="11" stroke="none"/>
+            <rect x="0.5" y="0.5" width="6" height="10" fill="none"/>
+          </g>
+        </g>
+        <path id="Icon_ionic-ios-arrow-up" data-name="Icon ionic-ios-arrow-up" d="M9.854,12.514l2.772,2.774a.524.524,0,1,0,.74-.742L10.225,11.4a.523.523,0,0,0-.722-.015L6.34,14.544a.524.524,0,1,0,.74.742Z" transform="translate(661.161 1582.663) rotate(45)" fill="#fff"/>
+      </g>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="1" cy="1" r="1" transform="translate(436 1607)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

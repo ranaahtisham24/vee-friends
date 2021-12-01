@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="Rectangle_50" x="0" y="0" width="64" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#888585" flood-opacity="0.659"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_79" data-name="Group 79" transform="translate(-895 -3218)">
+    <g id="Group_38" data-name="Group 38" transform="translate(44 -53)">
+      <g transform="matrix(1, 0, 0, 1, 851, 3271)" filter="url(#Rectangle_50)">
+        <rect id="Rectangle_50-2" data-name="Rectangle 50" width="40" height="40" rx="12" transform="translate(11 12)" fill="#323232"/>
+      </g>
+      <path id="Icon_simple-tiktok" data-name="Icon simple-tiktok" d="M14.7.023C16.171,0,17.634.011,19.1,0a7.012,7.012,0,0,0,1.97,4.694,7.939,7.939,0,0,0,4.773,2.015v4.537a12.049,12.049,0,0,1-4.728-1.092,13.909,13.909,0,0,1-1.824-1.047c-.011,3.287.011,6.574-.023,9.85a8.6,8.6,0,0,1-1.52,4.435,8.387,8.387,0,0,1-6.653,3.614A8.208,8.208,0,0,1,6.5,25.847a8.489,8.489,0,0,1-4.109-6.428c-.023-.563-.034-1.126-.011-1.677a8.475,8.475,0,0,1,9.828-7.52c.023,1.666-.045,3.332-.045,5a3.862,3.862,0,0,0-4.931,2.387,4.466,4.466,0,0,0-.158,1.812,3.831,3.831,0,0,0,3.94,3.231,3.782,3.782,0,0,0,3.118-1.812,2.6,2.6,0,0,0,.462-1.193c.113-2.015.068-4.019.079-6.034.011-4.537-.011-9.062.023-13.587Z" transform="translate(868.159 3289.491)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
